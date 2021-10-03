@@ -1,2 +1,3 @@
 # my_django_projects
-Here i will upload my django projects
+Here i will upload my django projects....
+I am currently learning Django
